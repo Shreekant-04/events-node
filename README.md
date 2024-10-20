@@ -32,11 +32,12 @@ To run this project, you will need:
 |    ├── exploreItems.txt 
 ├── index.js              # The Node.js server script
 ├── README.md              # Documentation for the project
+
 ```
 
 ### Contributing
 Feel free to fork this repository, create new features, or submit issues. Contributions are welcome!
 
   - Fork the repository.
-  -Create a new branch for your feature or bugfix.
-  -Open a pull request when your changes are ready for review.
+  - Create a new branch for your feature or bugfix.
+  - Open a pull request when your changes are ready for review.
