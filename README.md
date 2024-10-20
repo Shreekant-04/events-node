@@ -17,10 +17,11 @@ To run this project, you will need:
  Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/dev-club-explore.git
+   git clone https://github.com/Shreekant-04/events-node.git
 ```
 
-### Project Structure
+## Project Structure
+
 ```bash
 ├── public
 |    ├── exploreItems.json      # Contains the content for each explore item
@@ -35,7 +36,8 @@ To run this project, you will need:
 
 ```
 
-### Contributing
+## Contributing
+
 Feel free to fork this repository, create new features, or submit issues. Contributions are welcome!
 
   - Fork the repository.
