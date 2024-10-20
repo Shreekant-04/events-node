@@ -33,6 +33,7 @@ To run this project, you will need:
 |    ├── exploreItems.txt 
 ├── index.js              # The Node.js server script
 ├── README.md              # Documentation for the project
+├── vercel.json             
 
 ```
 
