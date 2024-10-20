@@ -1,0 +1,7 @@
+ <div class="explore-item">
+          <h2>{%title%}</h2>
+          <p>
+            {%description%}
+          </p>
+          <a href={%link_href%}>{%link_text%}</a>
+        </div>

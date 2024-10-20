@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Coding Challenges",
+    "description": "Test your skills with our curated set of coding challenges. Compete with others and grow your knowledge.",
+    "link_text": "Learn More",
+    "link_href": "/explore/item?id=1"
+  },
+  {
+    "title": "Workshops",
+    "description": "Join our hands-on workshops to learn the latest development technologies and best practices.",
+    "link_text": "Explore Workshops",
+    "link_href": "/explore/item?id=2"
+  },
+  {
+    "title": "Competitions",
+    "description": "Participate in exciting development competitions. Build projects, solve problems, and win prizes!",
+    "link_text": "Join Competitions",
+    "link_href": "/explore/item?id=3"
+  },
+  {
+    "title": "Resources",
+    "description": "Access tutorials, articles, and project ideas to enhance your learning journey.",
+    "link_text": "Browse Resources",
+    "link_href": "/explore/item?id=4"
+  }
+]

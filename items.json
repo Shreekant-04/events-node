@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Coding Challenges",
+    "description": "Sharpen your coding skills with our hand-picked challenges. Whether you're a beginner or a seasoned developer, our challenges cover a wide range of topics, including algorithms, data structures, and real-world problems. Participate, learn new approaches, and enhance your problem-solving abilities while climbing the leaderboard."
+  },
+  {
+    "id": 2,
+    "title": "Workshops",
+    "description": "Join our interactive workshops to stay updated on the latest technologies, coding practices, and tools. These hands-on sessions are led by industry professionals and cover topics such as web development, AI, machine learning, and cloud computing. Whether you're starting out or looking to deepen your knowledge, our workshops offer something for everyone."
+  },
+  {
+    "id": 3,
+    "title": "Competitions",
+    "description": "Compete in exciting development contests that challenge your coding skills and creativity. From hackathons to design sprints, our competitions offer an opportunity to showcase your coding prowess, collaborate with others, and win amazing rewards. Ready to test your mettle? Join a competition and take your skills to the next level."
+  },
+  {
+    "id": 4,
+    "title": "Resources",
+    "description": "Explore a curated collection of tutorials, articles, and guides on the latest technologies. Whether you're looking to learn a new programming language, improve your development workflow, or dive into specialized fields like AI, DevOps, or mobile development, our resource library is here to support your learning journey."
+  }
+]
