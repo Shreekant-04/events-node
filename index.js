@@ -7,8 +7,7 @@ const path = require("path");
 const myEvent = new event();
 
 function makePath(filename) {
-  const pathname = path.join(__dirname, filename);
-  console.log(pathname);
+  const pathname = path.join(__dirname, "public", filename);
   return pathname;
 }
 
@@ -65,7 +64,7 @@ function makeItem(el) {
 myEvent.on("item", (res, id) => {
   const item = JSON.parse(fs.readFileSync(makePath("items.json"), "utf-8"));
   const page = item.filter((el) => el.id == id);
-  if (!page.length) return myEvent.emit("load", res, makePath("notfound.html"));
+  if (!page.length) return myEvent.emit("load", res, makePath("notFound.html"));
   const output = page.map((el) => makeItem(el)).join("");
   res.end(output);
 });
@@ -86,7 +85,7 @@ const server = http.createServer((req, res) => {
     return myEvent.emit("item", res, id);
   }
 
-  return myEvent.emit("load", res, makePath("notfound.html"));
+  return myEvent.emit("load", res, makePath("notFound.html"));
 });
 
 const port = 5000;
